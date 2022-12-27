@@ -7,9 +7,6 @@ In this project the aim is to control a Hoist in 2D using the command and inspec
 5. Inspector (user interface)
 6. Watchdog (checks if the processes work)
 
-# RUN
-To run the code run.sh file can be used. It complies and runs all the processes together
-
 # MASTER:
 Master process is the father of all remaining six processes. It creates children and wait until their job is finished.
 
